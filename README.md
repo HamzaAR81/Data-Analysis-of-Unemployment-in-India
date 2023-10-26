@@ -12,10 +12,7 @@ The project utilizes a comprehensive dataset that includes information about une
 3. [Project Goals](#project-goals)
 4. [Project Structure](#project-structure)
 5. [Data Analysis](#data-analysis)
-6. [Dependencies](#dependencies)
-7. [Usage](#usage)
-8. [Contributing](#contributing)
-9. [License](#license)
+6. [Contributing](#contributing)
 
 ## Introduction
 
@@ -51,7 +48,9 @@ The repository is organized as follows:
 
 The data analysis is performed in Jupyter notebooks located in the "notebooks" directory. The notebooks provide step-by-step details of the analysis process and include visualizations that convey the key insights.
 
+##Contribution
 
+Contributions to this project are welcome! If you have ideas for improvements or would like to collaborate, please open an issue or submit a pull request.
 
 
 
