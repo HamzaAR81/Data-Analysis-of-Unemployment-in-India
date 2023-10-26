@@ -48,7 +48,7 @@ The repository is organized as follows:
 
 The data analysis is performed in Jupyter notebooks located in the "notebooks" directory. The notebooks provide step-by-step details of the analysis process and include visualizations that convey the key insights.
 
-##Contribution
+## Contribution
 
 Contributions to this project are welcome! If you have ideas for improvements or would like to collaborate, please open an issue or submit a pull request.
 
